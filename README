@@ -1,0 +1,4 @@
+Step 1: Make a copy of the configuration file to be imported
+  cp conf.py_sample conf.py
+Step 2: Edit conf.py to match your setup
+  
