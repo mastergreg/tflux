@@ -1,0 +1,17 @@
+#!/usr/bin/python
+#/* -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+#
+#* File Name : conf.py
+#
+#* Purpose :
+#
+#* Creation Date : 02-10-2011
+#
+#* Last Modified : Sun 02 Oct 2011 01:49:58 PM EEST
+#
+#* Created By : Greg Liras <gregliras@gmail.com>
+#
+#_._._._._._._._._._._._._._._._._._._._._.*/
+username = "admin"
+password = "123456"
+address="mysuperserverIP/torrentflux"
